@@ -71,7 +71,20 @@ Once the script is finished, your Druid cluster will be accessible at [http://lo
     - Username: admin
     - Password: password
 
-## Using this Cluster with Data Philter
+## 🧠 Data Philter: AI-Powered UI for Druid
+
+Experience your data like never before with **[Data Philter](https://github.com/iunera/data-philter)**, a local-first AI gateway designed by iunera. It leverages this **Druid MCP Server** to provide a seamless, conversational interface for your Druid cluster.
+
+*   **Natural Language Queries:** Ask questions in plain English and get results instantly.
+*   **Local & Secure:** Runs completely locally with support for Ollama models (or OpenAI).
+*   **Plug & Play:** Works out-of-the-box with the Development Druid Installation.
+
+[![Data Philter](https://raw.githubusercontent.com/iunera/data-philter/main/assets/images/dataphilterinstall.gif)](https://github.com/iunera/data-philter)
+
+[**Get Data Philter on GitHub →**](https://github.com/iunera/data-philter)
+[**Watch the Video about Data Philter →**](https://www.youtube.com/watch?v=tTlgX83NcB0)
+
+### Using this Cluster with Data Philter
 
 This local Druid cluster is the perfect companion for [Data Philter](https://github.com/iunera/data-philter).
 
